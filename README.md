@@ -1,1 +1,1 @@
-# CP-and-CTF
+# Time to learn :)
