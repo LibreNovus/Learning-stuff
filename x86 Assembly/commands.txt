@@ -1,0 +1,10 @@
+Linux
+
+Using nasm assembler:
+
+nasm -f elf32 "input" -o "output"
+
+elf = executable and linkable format. Standard executable format used by linux
+
+Using the GNU linker. Build executable from object file.
+ld -m elf_i386 "input -o "output"
