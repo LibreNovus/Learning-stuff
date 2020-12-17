@@ -1,4 +1,16 @@
 Remebos
 
 "+Y - Copy to clipboard
+gg - top
+G - bottom
+{ and } - skip block
+dd - delete line
+u - undo
+ctrl+r - redo
+yy - copy line
+p - paste below
+capital P - paste above
 
+combo numbers with commands
+
+11:08
