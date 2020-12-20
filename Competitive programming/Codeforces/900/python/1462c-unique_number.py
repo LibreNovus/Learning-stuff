@@ -1,4 +1,3 @@
-from sys import stdin,stdout
 t = int(input())
 
 for y in range(t):
@@ -6,7 +5,7 @@ for y in range(t):
     if n > 45:
         string = '-1'
         print(string)
-        continue
+        break
     else:
         string = ''
         i = 9
