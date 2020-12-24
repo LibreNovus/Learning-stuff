@@ -1,17 +1,23 @@
 Remebos
 
 "+Y - Copy to clipboard
-gg - top
+gg - thp
 G - bottom
 { and } - skip block
 dd - delete line
+D - delete rest of the line
 u - undo
 ctrl+r - redo
 yy - copy line
 p - paste below
 capital P - paste above
 r - replace single character
-
+w - next word
+b - previous word
+:{{number}} go to line
+0 - beginning of line
+t - go to
+dt - delete to x
 
 combo numbers with commands
 
